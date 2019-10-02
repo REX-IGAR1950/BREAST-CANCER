@@ -7,7 +7,11 @@ El objetivo de nuestro estudio se centra en discernir cuando un tumor con determ
 # REQUERIMIENTOS
 
 "mama.csv" file
+
 numpy
+
 pandas
+
 sklearn
+
 matplotlib.pyplot
